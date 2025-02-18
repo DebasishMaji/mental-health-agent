@@ -79,7 +79,7 @@ Let's examine this thought:
 
 ## 🧠 Technical Architecture
 
-![Uploading Screenshot 2025-02-19 at 3.17.29 AM.png…]()
+<img width="618" alt="Screenshot 2025-02-19 at 3 17 29 AM" src="https://github.com/user-attachments/assets/79226b0a-4686-4124-8fc0-927ffcb8aea6" />
 
 
 ## 🗺️ Roadmap to 2027
