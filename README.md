@@ -170,4 +170,3 @@ MIT License - Requires ethical use certification for clinical deployments
 
 **Join 50+ developers preventing 100+ suicides daily**  
 [Get Started](#installation) | [Clinical Validation]([https://example.com](https://pmc.ncbi.nlm.nih.gov/articles/PMC3703237/)) | [Donate](https://github.com/DebasishMaji/mental-health-agent)
-```
